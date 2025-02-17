@@ -3,7 +3,7 @@
 - [Project Background](#Project-Background)
 - [Executive Summary](#Executive-summary)
 - [North Star Metrics](#North-Star-Metrics)
-- [Insights]:(#insights)
+- [Insights]:(#Insights)
 	- [Genre Analysis by Release Year](##Genre-Analysis-by-Release-Year)
 	- [Age Certifications](##Genre-analysis-by-Age-certifications)
 	  	- [Targeting  Youths](###Media-targeting-Young-Audiences (G, PG-13, TV-G, TV-PG14, TV-Y, TV-Y7))
@@ -55,7 +55,7 @@
 - Horror, Thriller, Crime, and Western are above average in relative votes, but below in quantity.
   ![image](https://github.com/user-attachments/assets/f825c5b7-13a6-45f8-9e78-806484922f8f)
 
-### Media targeting General Audiences (PG, G,TV-G, TV-PG )
+### Media targeting General Audiences (PG, G, TV-G, TV-PG)
   Movie – 
 - The highest active engagement genres are Comedy, Family, Fantasy, Drama, and Animation
 - Fantasy, Animation, Romance, Family, Drama, and Comedy have higher than average relative votes (>26k) and quantities (>55).
