@@ -4,11 +4,11 @@
 - [Executive Summary](#Executive-summary)
 - [North Star Metrics](#North-Star-Metrics)
 - [Insights]:(#Insights)
-	- [Genre Analysis by Release Year](##Genre-Analysis-by-Release-Year)
+	- [Genre Analysis by Release Year](#genre-analysis-by-release-year)
 	- [Age Certifications](#Age-Certifications)
-	  	- [Targeting  Youths](#Media-targeting-Young-Audiences-(G,-PG-13,-TV-G,-TV-PG14,-TV-Y,-TV-Y7))
-      		- [Targeting General Audience](#Media-targeting-General-Audiences-(PG,-G,-TV-G,-PG))
-     		 - [Targeting Adults](#Media-targeting-Ages-18-and-Above-(G,-NC-17,-R,-TV-G,-TV-MA))
+	  	- [Targeting  Youths](#media-targeting-young-audiences-g-pg-13-tv-g-tv-pg14-tv-y-tv-y7)
+      		- [Targeting General Audience](#media-targeting-general-audiences-pg-g-tv-g-tv-pg)
+     		 - [Targeting Adults](#media-targeting-ages-18-and-above-g-nc-17-r-tv-g-tv-ma)
 - [Project Background](#Project-Background)
 - [Recommendations](#Recommendations)
 - [Clarifying Questions and Assumptions](#Clarifying-Questions-and-Assumptions)
@@ -44,7 +44,7 @@
 -  For shows, TV-Y7,TV-Y,TV-G,TV-PG account for 30% of all show titles, but only 10% of total votes.
   ![image](https://github.com/user-attachments/assets/02a98326-91f6-4b05-9eba-28d38d7477a1)
 
-### Genre recommendations for Media targeting Young Audiences (G, PG-13, TV-G, TV-PG14, TV-Y, TV-Y7)
+### Media targeting Young Audiences (G, PG-13, TV-G, TV-PG14, TV-Y, TV-Y7)
   Movies –
 - The highest engagement genres are Drama, Thriller, Action, Comedy, and Romance.
 - Thriller, Action, and Horror have above average relative voting engagement (>67k) and quantity (>75) 
