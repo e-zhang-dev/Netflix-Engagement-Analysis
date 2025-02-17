@@ -5,12 +5,12 @@
 - [North Star Metrics](#North-Star-Metrics)
 - [Insights]:(#Insights)
 	- [Genre Analysis by Release Year](##Genre-Analysis-by-Release-Year)
-	- [Age Certifications](##Genre-analysis-by-Age-certifications)
-	  	- [Targeting  Youths](###Media-targeting-Young-Audiences (G, PG-13, TV-G, TV-PG14, TV-Y, TV-Y7))
-      - [Targeting General Audience](###Media-targeting-General-Audiences (PG, G,TV-G, TV-PG))
-      - [Targeting Adults](###Media-targeting-Ages-18-and-Above (G, NC-17, R, TV-G, TV-MA))
+	- [Age Certifications](##Age-Certifications)
+	  	- [Targeting  Youths](###Media-targeting-Young-Audiences-(G,-PG-13,-TV-G,-TV-PG14,-TV-Y,-TV-Y7))
+      		- [Targeting General Audience](###Media-targeting-General-Audiences-(PG,-G,-TV-G,-PG))
+     		 - [Targeting Adults](###Media-targeting-Ages-18-and-Above-(G,-NC-17,-R,-TV-G,-TV-MA))
 - [Project Background](#Project-Background)
--[Recommendations](#Recommendations)
+- [Recommendations](#Recommendations)
 - [Clarifying Questions and Assumptions](#Clarifying-Questions-and-Assumptions)
 # Project Background:
 -  Explored Netflix catalogues of about 9000 movies and 5600 shows, which correlate to 377M votes on IMDB. The catalogue contains media released from 1945-2022. Overlap with IMDB customers is desirable as they provide high visibility and engagement for the product with voting. This analysis seeks to find insights and make recommendations on genre performance relative to IMDB voter base.
@@ -36,7 +36,7 @@
 - Western and European genres have little new releases from 2022-2023 for both Movies and Shows.
   ![image](https://github.com/user-attachments/assets/c190a1e8-f5bd-4b3d-a0fd-92a285430f0e)
 
-## Genre analysis by Age certifications.
+## Age Certifications
 - Age certifications R, PG 13, and PG are the highest engagement categories for Movies
 - Age certifications TV-14 and TV-MA are the highest engagement categories for Show
 - G, NC-17, TV-Y7, TV-Y, TV-G, TV-PG has low conversion of voters among IMDB voters.
