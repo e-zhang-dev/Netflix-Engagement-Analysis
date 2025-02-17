@@ -21,11 +21,11 @@
 - **Number of Titles:** Number of titles in Netflix’s Library
 - **Average votes per title:** Total votes  /  Number of Titles
 - **Project type:** Movies, Shows, Genres(* * )
-- **Plan period:** Release Years, * *Grouped by  1945-1999, 2000-2009, 2010-2019, 2020, 2021, 2022* *
-- **Age grouping: ** Splitting age demographic by targeted age certifications
-  - * *Youths [G, PG-13  	 | 	 TV-G, TV-PG14, TV-Y, TV-Y];* *
-  - * *Adults [G, NC-17, R	 |	TV-G, TV-MA];* *
-  - * *General Audience [G, PG 	|	TV-G, TV-PG ]* *
+- **Plan period:** Release Years, *Grouped by  1945-1999, 2000-2009, 2010-2019, 2020, 2021, 2022*
+- **Age grouping:** Splitting age demographic by targeted age certifications
+  - *Youths [G, PG-13  	 | 	 TV-G, TV-PG14, TV-Y, TV-Y];*
+  - *Adults [G, NC-17, R	 |	TV-G, TV-MA];*
+  - *General Audience [G, PG 	|	TV-G, TV-PG]*
 # Insights
 ## Genre Analysis by Release Year
 - In total, there are 281M votes for Movies, and 118M total for Shows. Of that 57% of movie and 67% of show votes come from between years 2010-2019.
