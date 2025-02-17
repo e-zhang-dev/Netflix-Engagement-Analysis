@@ -1,4 +1,4 @@
-WITH TypeFilter AS ( -- Alows a specific type filtering by "MOVIE", "SHOW", or all (comment the WHERE in line8). OUTPUT: id, type, release_year, age_certification,genre,imdb_vote,imdb_score
+WITH TypeFilter AS ( -- Alows a specific type filtering by "MOVIE", "SHOW", or all (comment the WHERE in line13). OUTPUT: id, type, release_year, age_certification,genre,imdb_vote,imdb_score
     SELECT
         id, ---STR:
         type, ---STR:
