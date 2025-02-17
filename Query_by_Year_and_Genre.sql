@@ -1,4 +1,4 @@
-WITH TypeFilter AS ( -- Alows a specific type filtering by "MOVIE", "SHOW", or all (comment the WHERE in line8).
+WITH TypeFilter AS ( -- Alows a specific type filtering by "MOVIE", "SHOW", or all (comment the WHERE in line10).
     SELECT
         id, ---STR:
         type, ---STR:
